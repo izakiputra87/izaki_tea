@@ -1,0 +1,26 @@
+{
+  "name": "izaki",
+  "version": "1.0.0",
+  "description": "Make for Tea Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izakiputra87/izaki_tea.git"
+  },
+  "keywords": [
+    "TEA",
+    "Project"
+  ],
+  "author": "Izaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izakiputra87/izaki_tea/issues"
+  },
+  "homepage": "https://github.com/izakiputra87/izaki_tea#readme",
+  "dependencies": {
+    "izaki_tea": "^1.0.0"
+  }
+}
