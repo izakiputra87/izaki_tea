@@ -1,0 +1,7 @@
+# izaki_tea
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x6005b3B5DdD2003d4b18188fc3870CE9258A954b'
+quorum: 1
